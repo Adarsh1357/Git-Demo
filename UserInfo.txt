@@ -1,2 +1,6 @@
 name = UserName
 password = 123
+
+cred = Credential Info
+isLoggedIn = false
+
