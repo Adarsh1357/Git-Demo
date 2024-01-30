@@ -16,11 +16,6 @@ p{
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
 }
-div{
-  display:flex;
-  justify-content: center;
-  align-items: center;
-}
 .container{
   color:#fff;
   background-color: gray;
@@ -32,4 +27,15 @@ div{
   background-color: transparent;
   font-size: 18px;
   font-weight: 400;
+}
+.container3{
+  color:#333;
+  display: inline-block;
+  width:100%;
+  height:auto;
+  border-radius: inherit;
+  -webkit-border-radius: inherit;
+  -moz-border-radius: inherit;
+  -ms-border-radius: inherit;
+  -o-border-radius: inherit;
 }
